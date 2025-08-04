@@ -80,6 +80,14 @@ p {
     color: #666;
     font-size: 0.9rem;
     font-weight: 400;
+    margin-bottom: 0.25rem;
+}
+
+.founder .experience {
+    color: #888;
+    font-size: 0.85rem;
+    font-weight: 400;
+    font-style: italic;
 }
 
 /* Mission Section */
